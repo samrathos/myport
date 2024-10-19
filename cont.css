@@ -1,0 +1,29 @@
+body {
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+}
+body {
+    background-color: antiquewhite;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: black; 
+    padding: 10px; 
+    border: 1px solid black;
+    border-top-left-radius: 10px; 
+}
+
+.navbar a {
+    color: white; 
+    text-decoration: none; 
+    font-size: 25px; 
+    margin: 10px;
+}
+.qr-c{width: 300px;}
+.links {
+    display: block;
+    font-size: 30px;
+    text-decoration: none;
+    margin-top: 10px;
+}
