@@ -28,24 +28,24 @@ body {
 }
 
 .avatar {
-    width: 100px;
-    border-radius: 10%;
+    width: 200px;height: 210px;
+    border-radius: 50%;
     border: 2px solid #ccc; 
 }
 
 .info-section h1 {
     margin: 0; 
-    font-size: 24px;
+    font-size: 44px;
 }
 
 .info-section h2 {
     margin: 5px 0; 
-    font-size: 18px;
+    font-size: 36px;
 }
 
 .info-section p {
     margin: 5px 0; 
-        font-size: 16px;
+        font-size: 26px;
 }
 #myac {
     margin: 20px; 
